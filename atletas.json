@@ -1,0 +1,5 @@
+a1 = {"Nome":"Joao do Salto", "Categoria":"Salto Distancia", "Altura": 1.90, "Distancia":5, "Medalhas":[{"Ouro":1}, {"Prata":2}]}
+a2 = {"Nome":"Pedro da Vela", "Categoria": "Vela", "Barco":"Starship", "Medalhas": [{"Bronze": 1}]}
+a3 = [{"Nome":"Maria da Luta", "Categoria":"Boxe", "Peso":"Leve", "Medalhas":[{"Ouro":3}]},
+{"Nome":"Fernanda Speed", "Categoria": "Corrida", "Distancia": 100, "Velocidade": 25, "Idade": 28},
+{"Nome":"Marcos Forest", "Categoria": "Corrida", "Distancia": 100, "Velocidade": 20, "Idade": 32}]
